@@ -32,7 +32,9 @@ from [枪弹轨迹](https://space.bilibili.com/515993?from=search&seid=333400916
 ## apt-get下载LSP
 本功能还未实现，打算上传apt
 
-English Version Documentation
+
+
+#English Version Documentation
 
 Foreword
 When opening the "Youth University Learning",
