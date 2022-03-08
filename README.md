@@ -31,3 +31,31 @@ from [枪弹轨迹](https://space.bilibili.com/515993?from=search&seid=333400916
 
 ## apt-get下载LSP
 本功能还未实现，打算上传apt
+
+English Version Documentation
+
+Foreword
+When opening the "Youth University Learning",
+I always could see [学习新思想，争做新色批] [Learn new thoughts, Be a simp]
+in bullet chat
+(https://www.bilibili.com/video/BV1HV411y7sK/?spm_id_from=333.788.videocard.7)”.
+In the moment, the author knows that a lot of people have the need to get more about new "thoughts"
+(https://github.com/Sherlockcxk/lsp/blob/MASTER/screen_shots/new%20value.jpg)，
+long for the freedom of the body and the soul. Maybe, many people don't understand that my efforts and giving.
+No matter how, I will tell that person that, "Make people happy is a good deed". This vision is the reason why I'm still standing here and not move anywhere in order to use an unusual method to show you a wonderful world.
+
+Introduction
+Everytime you run the program, lsp will retrieve a random pictures from the [图库](https://github.com/SatinWuker/lsp/blob/MASTER/lsp-db
+Most of the pictures come from the Pixiv and some of them are collected during free time
+One day, only can draw one image for simping since draw more than one will hurt body :p 🤣
+After you have seen, it will be deleted automatically, even the author dunno the reason why? hahah
+All the images are selected strictly and obeying the laws. So, Let Get This.
+
+Prerequisite before running
+Run pip install -r requirements.txt
+
+For the Linux users, need to install imagemagicks by running sudo apt-get install imagemagick
+and run the code
+
+apt-get download and install LSP function
+This function has not been realized yet, but plan to do
